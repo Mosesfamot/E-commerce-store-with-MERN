@@ -78,44 +78,7 @@ src/
 └── assets/          # Static files (images, icons)
 ```
 
----
 
-## ![Team Icon](https://img.icons8.com/color/48/000000/conference-call.png "Team") Team Members
-- **Group D**  
-1. **Ojo Moses Adegoke**  
-   LCU/UG/22/23627 - Computer Science  
-
-2. **Abdulwaheed Aishat Omolara**  
-   LCU/UG/22/22925 - Software Engineering  
-
-3. **Orisaremi Asushei Emmanuel**  
-   LCU/UG/21/19796 - Computer Science  
-
-4. **Toluwase Ifeoluwa Mercy**  
-   LCU/UG/22/24602 - Computer Science  
-
-5. **Asulewon Dennis Olowo**  
-   LCU/UG/22/21777 - Computer Science  
-
-6. **Aliyu Aminat Titilope**  
-   LCU/UG/22/23740 - Software Engineering  
-
-7. **Ibeh Chidubem Gilbert**  
-   LCU/UG/21/19933 - Computer Science  
-
-8. **Ola-Daniel Daniel Oluwagbemiga**
-   LCU/UG/22/24830 - Computer Science
-   
-9. **Adole Adah Ebenezer**
-   LCU/UG/22/21299 - Software Engineering
-
-
-
----
-
-## ![Course Icon](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-book-education-flat-flat-juicy-fish.png "Course") Course Information
-- **Course Code**: GST 306  
-- **Project Title**: E-commerce store with User Accounts  
 
 ---
 
@@ -138,15 +101,5 @@ src/
 
 ## ![License Icon](https://img.icons8.com/color/48/000000/copyright.png "License") License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-## ![Heart Icon](https://img.icons8.com/emoji/48/000000/red-heart.png "Built with Love") Acknowledgments
-Special thanks to our lecturer for the project guidelines and our teammates for their dedication and effort.
-
----
-
-Built with ❤️ by **Group D**.
-```
 
 ---
